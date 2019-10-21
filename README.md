@@ -8,4 +8,6 @@ El taller se enfoca al desarrollo de aplicaciones diversas con tarjetas Raspberr
 Profesionistas, programadores y desarrolladores del área de las tecnologías de la información, electrónicos y afines.
 
 <h3>Sitios de ayuda para el taller</h3>
-[github.com](https://github.com) - Github.com
+<ul>
+  <li><a href="https://github.com">Github.com</a></li>
+</ul>
