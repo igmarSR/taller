@@ -24,3 +24,17 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
   <li><a href="https://downloads.raspberrypi.org/NOOBS_lite_latest">noobs lite</a></li>
   <li><a href="https://youtu.be/wjWZhV1v3Pk">Video de Instalación</a></li>
 </ul>
+
+<h3>API</h3>
+<ul>
+  <li><a href="">Repositorio de la API</a></li>
+</ul>
+<code>
+  npm install
+  adonis serve --dev
+</code>
+
+<h3>Cliente</h3>
+<ul>
+  <li><a href="">Repositorio del Cliente</a></li>
+</ul>
