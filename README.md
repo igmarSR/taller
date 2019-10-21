@@ -6,3 +6,6 @@ En este curso totalmente práctico se busca introducir a los interesados en el d
 El taller se enfoca al desarrollo de aplicaciones diversas con tarjetas Raspberry PI que interactúen con diversos tipos de sensores y actuadores, interconectando diversos dispositivos.
 <h3>¿A quién está dirigido?</h3>
 Profesionistas, programadores y desarrolladores del área de las tecnologías de la información, electrónicos y afines.
+
+<h3>Sitios de ayuda para el taller</h3>
+[github.com](https://github.com) - Github.com
