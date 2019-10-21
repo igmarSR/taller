@@ -15,3 +15,11 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
   <li><a href="https://nodejs.org/es/">Node Js</a></li>
   <li><a href="https://angular.io/">Angular</a></li>
 </ul>
+
+<h3>Material de Apoyo</h3>
+<ul>
+  <li><a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up">Primeros Pasos</a></li>  
+  <li><a href="https://downloads.raspberrypi.org/NOOBS_latest">noobs offline</a></li>
+  <li><a href="https://downloads.raspberrypi.org/NOOBS_lite_latest">noobs lite</a></li>
+  <li><a href="https://youtu.be/wjWZhV1v3Pk">Video de Instalación</a></li>
+</ul>
