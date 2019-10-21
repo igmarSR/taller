@@ -9,5 +9,9 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 
 <h3>Sitios de ayuda para el taller</h3>
 <ul>
-  <li><a href="https://github.com">Github.com</a></li>
+  <li><a href="https://www.raspberrypi.org/">Raspberry pi</a></li>
+  <li><a href="https://github.com">Github</a></li>
+  <li><a href="https://adonisjs.com/docs/4.1/about">Adonis Js</a></li>
+  <li><a href="https://nodejs.org/es/">Node Js</a></li>
+  <li><a href="https://angular.io/">Angular</a></li>
 </ul>
