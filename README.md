@@ -29,11 +29,10 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 <ul>
   <li><a href="https://github.com/igmarSR/api">Repositorio de la API</a></li>
 </ul>
-<code>
-  <ul>
-    <li>npm install</li>
-    <li>adonis serve --dev</li>
-  </ul>  
+<code>  
+    npm install
+    <br/>
+    adonis serve --dev   
 </code>
 
 <h3>Cliente</h3>
