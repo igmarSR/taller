@@ -28,7 +28,8 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 
 <h3>Material de Apoyo Raspberry PI</h3>
 <ul>  
-  <li><a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up" target="_blank">Primeros Pasos</a></li>  
+  <li><a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up" target="_blank">Primeros Pasos</a></li> 
+  <li><a href="https://www.sdcard.org/downloads/formatter/index.html">Formatter SDCard</a></li>
   <li><a href="https://downloads.raspberrypi.org/NOOBS_latest">noobs offline</a></li>
   <li><a href="https://downloads.raspberrypi.org/NOOBS_lite_latest">noobs lite</a></li>
   <li><a href="https://youtu.be/wjWZhV1v3Pk" target="_blank">Video de Instalación</a></li>
