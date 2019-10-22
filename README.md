@@ -12,37 +12,37 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 
 <h3>Sitios de ayuda para el taller</h3>
 <ul>
-  <li><a href="https://www.raspberrypi.org/">Raspberry Pi</a></li>
-  <li><a href="https://www.arduino.cc/">Arduino</a></li>
-  <li><a href="https://github.com">Github</a></li>
-  <li><a href="https://adonisjs.com/docs/4.1/about">Adonis Js</a></li>
-  <li><a href="https://nodejs.org/es/">Node Js</a></li>
-  <li><a href="https://angular.io/">Angular</a></li>
-  <li><a href="https://cli.angular.io/">Angular CLI</a></li>  
+  <li><a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></li>
+  <li><a href="https://www.arduino.cc/" target="_blank">Arduino</a></li>
+  <li><a href="https://github.com" target="_blank">Github</a></li>
+  <li><a href="https://adonisjs.com/docs/4.1/about" target="_blank">Adonis Js</a></li>
+  <li><a href="https://nodejs.org/es/" target="_blank">Node Js</a></li>
+  <li><a href="https://angular.io/" target="_blank">Angular</a></li>
+  <li><a href="https://cli.angular.io/" target="_blank">Angular CLI</a></li>  
 </ul>
 
 <h3>Material de Apoyo Arduino</h3>
 <ul>  
-  <li><a href="https://www.arduino.cc/en/Main/Software">IDE</a></li>
+  <li><a href="https://www.arduino.cc/en/Main/Software" target="_blank">IDE</a></li>
 </ul>
 
 <h3>Material de Apoyo Raspberry PI</h3>
 <ul>  
-  <li><a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up">Primeros Pasos</a></li>  
+  <li><a href="https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up" target="_blank">Primeros Pasos</a></li>  
   <li><a href="https://downloads.raspberrypi.org/NOOBS_latest">noobs offline</a></li>
   <li><a href="https://downloads.raspberrypi.org/NOOBS_lite_latest">noobs lite</a></li>
-  <li><a href="https://youtu.be/wjWZhV1v3Pk">Video de Instalación</a></li>
+  <li><a href="https://youtu.be/wjWZhV1v3Pk" target="_blank">Video de Instalación</a></li>
 </ul>
 
 <h3>API</h3>
 <ul>
-  <li><a href="https://github.com/igmarSR/api">Repositorio de la API</a></li>
+  <li><a href="https://github.com/igmarSR/api" target="_blank">Repositorio de la API</a></li>
 </ul>
 <code>npm install | adonis serve --dev </code>
 
 <h3>Cliente</h3>
 <ul>
-  <li><a href="https://github.com/igmarSR/cliente">Repositorio del Cliente</a></li>
+  <li><a href="https://github.com/igmarSR/cliente" target="_blank">Repositorio del Cliente</a></li>
 </ul>
 <code>npm install | ng serve </code>
 
