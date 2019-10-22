@@ -30,8 +30,7 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
   <li><a href="https://github.com/igmarSR/api">Repositorio de la API</a></li>
 </ul>
 <code>  
-    npm install
-    <br/>
+    npm install |
     adonis serve --dev   
 </code>
 
@@ -39,9 +38,5 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 <ul>
   <li><a href="https://github.com/igmarSR/cliente">Repositorio del Cliente</a></li>
 </ul>
-<code>
-  <ul>
-    <li>npm install</li>
-    <li>ng serve</li>
-  </ul>  
-</code>
+`npm install | ng serve`
+
