@@ -24,6 +24,8 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 <h3>Material de Apoyo Arduino</h3>
 <ul>  
   <li><a href="https://www.arduino.cc/en/Main/Software" target="_blank">IDE</a></li>
+  <li><a href="https://www.arduino.cc/reference/en/" target="_blank">Documentación del Lenguaje</a></li>
+  <li><a href="https://create.arduino.cc/projecthub" target="_blank">Tutoriales</a></li>  
 </ul>
 
 <h3>Material de Apoyo Raspberry PI</h3>
@@ -34,7 +36,6 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
   <li><a href="https://downloads.raspberrypi.org/NOOBS_lite_latest">noobs lite</a></li>
   <li><a href="https://youtu.be/wjWZhV1v3Pk" target="_blank">Video de Instalación</a></li>
   <li><a href="https://www.realvnc.com/es/connect/download/viewer/" target="_blank">Cliente VNC Viewer</a></li> 
-  <li><a href="https://www.putty.org/" target="_blank">Cliente SSH (putty)</a></li>
   <li><a href="https://www.putty.org/" target="_blank">Cliente SSH (putty)</a></li>
   <li><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></li>
   <li><a href="https://filezilla-project.org/" target="_blank">Filezilla Cliente (FTP/SFTP)</a></li>    
@@ -51,4 +52,6 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
   <li><a href="https://github.com/igmarSR/cliente" target="_blank">Repositorio del Cliente</a></li>
 </ul>
 <code>npm install | ng serve | ng serve --host x.x.x.x --port=xxxx</code>
-
+<p align="right"> 
+  <img src="https://uttorreon.mx/img/conies/logo_utt.png" width="50%" height="50%">
+</p>
