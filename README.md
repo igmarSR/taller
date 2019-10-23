@@ -1,5 +1,5 @@
 # Evento CONIES 2019
-<h1>Desarrollo web orientado a iot: Arduino y Raspberry PI</h1>
+<h1>Desarrollo web orientado a IoT: Arduino y Raspberry PI</h1>
 <p align="center"> 
   <img src="https://uttorreon.mx/img/conies/logo_conies.png" width="35%" height="35%">
 </p>
