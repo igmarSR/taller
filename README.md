@@ -51,7 +51,7 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 <ul>
   <li><a href="https://github.com/igmarSR/cliente" target="_blank">Repositorio del Cliente</a></li>
 </ul>
-<code>npm install | ng serve | ng serve --host x.x.x.x --port=xxxx</code>
+<code>npm install | ng serve | ng serve --host x.x.x.x --port xxxx</code>
 <p align="right"> 
   <img src="https://uttorreon.mx/img/conies/logo_utt.png" width="75%" height="75%">
 </p>
