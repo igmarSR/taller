@@ -1,7 +1,7 @@
 # Evento CONIES 2019
 <h1>Desarrollo web orientado a iot: Arduino y Raspberry PI</h1>
 <p align="center"> 
-  <img src="https://uttorreon.mx/img/conies/logo_conies.png" width="50%" height="50%">
+  <img src="https://uttorreon.mx/img/conies/logo_conies.png" width="35%" height="35%">
 </p>
 <h3>Descripción</h3>
 En este curso totalmente práctico se busca introducir a los interesados en el desarrollo de aplicaciones embebidas en tarjetas electrónicas con diversos fines y usos. Se manejarán salidas en diversos actuadores, a conectarse con dispositivos a través de servicios web con páginas.
@@ -53,5 +53,5 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
 </ul>
 <code>npm install | ng serve | ng serve --host x.x.x.x --port=xxxx</code>
 <p align="right"> 
-  <img src="https://uttorreon.mx/img/conies/logo_utt.png" width="50%" height="50%">
+  <img src="https://uttorreon.mx/img/conies/logo_utt.png" width="75%" height="75%">
 </p>
