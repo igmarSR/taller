@@ -52,6 +52,11 @@ Profesionistas, programadores y desarrolladores del área de las tecnologías de
   <li><a href="https://github.com/igmarSR/cliente" target="_blank">Repositorio del Cliente</a></li>
 </ul>
 <code>npm install | ng serve | ng serve --host x.x.x.x --port xxxx</code>
+
+<h3>Validar versiones de los paquetes en Raspberry pi</h3>
+<p>Comandos en consola con ssh</p>
+<code>python3.8 --version | node -v | git --version | npm -v | adonis --version | ng --version</code>
+
 <p align="right"> 
   <img src="https://uttorreon.mx/img/conies/logo_utt.png" width="75%" height="75%">
 </p>
