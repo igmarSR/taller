@@ -5,8 +5,8 @@
 //#define WLAN_SSID "INFINITUM4381_2.4"
 //#define WLAN_PASS ""
 
-#define WLAN_SSID       "Sistemas"
-#define WLAN_PASS       "#M1n10N#:=)"
+#define WLAN_SSID       "Taller"
+#define WLAN_PASS       "1qaz2wsx0"
 
 /************************* Adafruit.io Setup *********************************/
 
